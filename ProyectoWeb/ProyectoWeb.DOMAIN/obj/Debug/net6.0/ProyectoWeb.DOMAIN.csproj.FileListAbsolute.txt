@@ -1,0 +1,28 @@
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.deps.json
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.runtimeconfig.json
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.dll
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.pdb
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.csproj.AssemblyReference.cache
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.AssemblyInfoInputs.cache
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.AssemblyInfo.cs
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.dll
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\refint\ProyectoWeb.DOMAIN.dll
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.pdb
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.genruntimeconfig.cache
+D:\Desarrollo web\WEB_Trabajo\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ref\ProyectoWeb.DOMAIN.dll
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.deps.json
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.runtimeconfig.json
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.dll
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\bin\Debug\net6.0\ProyectoWeb.DOMAIN.pdb
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.AssemblyInfo.cs
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.dll
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\refint\ProyectoWeb.DOMAIN.dll
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.pdb
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ProyectoWeb.DOMAIN.genruntimeconfig.cache
+C:\Users\User\Desktop\CURSOS\CARRERA SISTEMAS\2022-1\desarrollo de ambiente web\ENTREGA FINAL_PROYECTO\ProyectoWeb\ProyectoWeb.DOMAIN\obj\Debug\net6.0\ref\ProyectoWeb.DOMAIN.dll

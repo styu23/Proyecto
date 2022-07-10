@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Front_GimLife.MVC
+build_property.RootNamespace = Front_GimLife.MVC
+build_property.ProjectDir = C:\Users\jeani\Source\Repos\DesarrolloWebII\Front_GimLife\Front_GimLife.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jeani\Source\Repos\DesarrolloWebII\Front_GimLife\Front_GimLife.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/RegistroActividades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxSZWdpc3Ryb0FjdGl2aWRhZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/RegistroArticulos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxSZWdpc3Ryb0FydGljdWxvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/RegistroCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxSZWdpc3Ryb0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/RegistroMembresia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxSZWdpc3Ryb01lbWJyZXNpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Administrador/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxSZXBvcnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Cliente/Articulos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxBcnRpY3Vsb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Cliente/Asistencia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxBc2lzdGVuY2lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Cliente/ClasesGrupales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDbGFzZXNHcnVwYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Cliente/PerfilUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQZXJmaWxVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Validación/Confirmacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhY2nDs25cQ29uZmlybWFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Validación/EstaSeguro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhY2nDs25cRXN0YVNlZ3Vyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeani/Source/Repos/DesarrolloWebII/Front_GimLife/Front_GimLife.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j0w1zh3pqp

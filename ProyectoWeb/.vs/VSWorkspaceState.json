@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProyectoWeb.API",
+    "\\ProyectoWeb.DOMAIN",
+    "\\ProyectoWeb.DOMAIN\\Core",
+    "\\ProyectoWeb.DOMAIN\\Core\\DTOs",
+    "\\ProyectoWeb.DOMAIN\\Core\\Entities",
+    "\\ProyectoWeb.DOMAIN\\Infrastructure",
+    "\\ProyectoWeb.DOMAIN\\Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\ProyectoWeb.API",
+  "PreviewInSolutionExplorer": false
+}
